@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>51867977549-v7v4934bu3o7ijuk59th5eq0seiol7b7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.51867977549-v7v4934bu3o7ijuk59th5eq0seiol7b7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBabNz_5itqr8XNbZYefr26N7D1qcmBK_Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>51867977549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gr.interad.FXTIPSTER</string>
+	<key>PROJECT_ID</key>
+	<string>fxtipster-f084e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fxtipster-f084e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:51867977549:ios:cf8207d942f2bba9</string>
+	<key>DATABASE_URL</key>
+	<string>https://fxtipster-f084e.firebaseio.com</string>
 </dict>
 </plist>
